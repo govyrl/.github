@@ -1,0 +1,13 @@
+{
+    "name": "Batch Workflow",
+    "description": "Workflow for batch projects",
+    "iconName": "batch",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "requirements.txt$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
