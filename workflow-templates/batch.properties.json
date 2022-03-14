@@ -7,7 +7,6 @@
     ],
     "filePatterns": [
         "requirements.txt$",
-        "^Dockerfile",
-        ".*\\.md$"
+        "^Dockerfile"
     ]
 }
