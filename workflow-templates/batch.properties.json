@@ -1,6 +1,6 @@
 {
-    "name": "Batch Workflow",
-    "description": "Workflow for batch projects",
+    "name": "Python CI Workflow",
+    "description": "Workflow for python projects",
     "iconName": "batch",
     "categories": [
         "Python"
